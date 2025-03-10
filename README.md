@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TogaThrust
-- 👀 I’m interested in Python.
-- 🌱 I’m currently learning pygame.
-- 💞️ I’m looking to collaborate on Database enchancements and manipulation.
+- 🖋️ I code with Python, JavaScript and SQL.
+- 🌱 I’m currently learning Golang.
 - 📫 How to reach me: togathruster@gmail.com
 
 <!---
